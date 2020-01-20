@@ -3,9 +3,9 @@ package isil.trabajo.util;
 public class Constantes {
 	//Constantes
 	   public static final String JDBC_CLASS="com.mysql.jdbc.Driver";
-	   public static final String JDBC_URL="jdbc:mysql://localhost:3306/Proyecto01?useSSL=false&&serverTimezone=UTC";
+	   public static final String JDBC_URL="jdbc:mysql://localhost:3306/proyecto01?useSSL=false&&serverTimezone=UTC";
 	   public static final String JDBC_USERNAME="MySQL-Asti";
-	   public static final String JDBC_PASSWORD="Asti-Dev";
+	   public static final String JDBC_PASSWORD="1234567";
 	   
 	   
 	    public static final String INSERT_USERS_SQL = "INSERT INTO productos" + "  (nombre, categoria, cantidad, precio_uni, precio_total) VALUES "

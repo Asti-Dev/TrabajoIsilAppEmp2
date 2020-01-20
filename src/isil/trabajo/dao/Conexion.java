@@ -4,7 +4,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import com.isil.usermanagement.util.Constants;
+import isil.trabajo.util.Constantes;
+
+
 
 public class Conexion {
 
